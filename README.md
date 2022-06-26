@@ -8,4 +8,4 @@
 
 ## Deployment
 
-- Link to the website deployed on Netlify : [https://app.netlify.com/sites/mellifluous-arithmetic-d41bc6/overview]()
+- Link to the website deployed on Netlify : [Link](https://mellifluous-arithmetic-d41bc6.netlify.app/)
